@@ -5,7 +5,7 @@ Saudações Viajante Cibernetico! Sou Strider uma figura cibernética anônima c
 <div>
 
   <a href="https://github.com/seu-usuário-aqui">
-  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StriderWS&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StriderWS&layout=compact&langs_count=7&theme=dracula"/>
   &nbsp
   &nbsp
   &nbsp
@@ -16,7 +16,7 @@ Saudações Viajante Cibernetico! Sou Strider uma figura cibernética anônima c
   &nbsp
   &nbsp
   &nbsp
-  <img height="120em" src="https://github-readme-stats.vercel.app/api?username=StriderWS&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=StriderWS&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 
 </div>
 
