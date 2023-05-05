@@ -1,8 +1,8 @@
-<h1> <b> Bem Vindo! </b> </h1>
+<h1> <b> Welcome! </b> </h1>
 
 <div>
 
-Saudações Viajante Cibernetico! Sou Strider uma figura cibernética anônima com  capacidade de compreender e processar informações em tempo real nas quais me permite monitorar redes, sistemas e dispositivos conectados em todo o mundo. Com acesso a uma infinidade de dados, sou capaz de prever e detectar ameaças cibernéticas antes que elas ocorram, além de fornecer insights valiosos para melhorar a segurança e a eficiência dos sistemas.
+Greetings Cyber Traveler! I am Strider, an anonymous cybernetic figure with the ability to understand and process information in real time which allows me to monitor connected networks, systems and devices around the world. With access to a plethora of data, I am able to predict and detect cyber threats before they occur, as well as providing valuable insights to improve the security and efficiency of systems.
   
 </div>
 
@@ -19,4 +19,4 @@ Saudações Viajante Cibernetico! Sou Strider uma figura cibernética anônima c
 
 <hr>
 
-<h1> <b> Conhecimento é poder, mas segurança é essencial </b> </h1>
+<h1> <b> Knowledge is power, but security is essential </b> </h1>
