@@ -19,10 +19,3 @@ Greetings Cyber Traveler! I am Strider, an anonymous cybernetic figure with the 
 <hr>
 
 <h1> <b> Knowledge is power, but security is essential </b> </h1>
-
-<b> Connect with me: </b>
-
-<a href="https://br.linkedin.com/in/gabriel-ceravolo-29940a21a?trk=people-guest_people_search-card"> <img align="left" alt="StriderWS | LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /> </a>
-<a href="https://github.com/StriderW"> <img align="left" alt="StriderWS | GitHub" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" /> </a>
-<a href"#"> <img align="left" alt="StriderWS | My Porfolio" width="30px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" /> </a>
-<a href"https://www.instagram.com/gabriel.strider/"> <img align="left" alt="StriderWS | Instagram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /> </a>
