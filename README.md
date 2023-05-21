@@ -19,5 +19,4 @@ Greetings Cyber Traveler! I am Strider, an anonymous cybernetic figure with the 
 <hr>
 
 <h1> <b> Knowledge is power, but security is essential </b> </h1>
-
-![snake gif](https://github.com/StriderWS/StriderWS/blob/output/github-contribution-grid-snake.svg)
+ 
